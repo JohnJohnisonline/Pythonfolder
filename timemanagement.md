@@ -1,136 +1,133 @@
-.
+# 🗓️ **Time Management Dashboard**
 
-🗓️ Time Management Template
-🎯 Annual Goals
+---
 
- Goal 1 — Description, deadline, success criteria
+## 🎯 **Annual Goals**
 
- Goal 2 — Description, deadline, success criteria
+* [ ] ✅ **Career** — *Earn cloud certification by July*
+* [ ] 🏋️ **Health** — *Work out 4x/week*
+* [ ] 💸 **Finance** — *Save \$10,000 by year-end*
+* [ ] 🌍 **Personal** — *Travel to 2 new countries*
 
- Goal 3 — Description, deadline, success criteria
+---
 
-📅 Quarterly Objectives
+## 📊 **Quarterly Objectives**
 
-Q1 (Jan–Mar)
+**Q1 (Jan–Mar)**
 
- Objective 1
+* 🚀 Launch new project website
+* 📚 Complete 2 technical courses
 
- Objective 2
+**Q2 (Apr–Jun)**
 
-Q2 (Apr–Jun)
+* 🛠️ Build MVP for SaaS idea
+* 💼 Apply to 10 target jobs
 
- Objective 1
+**Q3 (Jul–Sep)**
 
- Objective 2
+* 🏡 Research investment property
+* 🎨 Launch clothing brand collection
 
-Q3 (Jul–Sep)
+**Q4 (Oct–Dec)**
 
- Objective 1
+* 🎤 Speak at a local tech event
+* 🧘 Focus on health & reflection
 
- Objective 2
+---
 
-Q4 (Oct–Dec)
+## 📅 **Monthly Planner** — *{{Month}}*
 
- Objective 1
+✨ **Top Priorities:**
 
- Objective 2
+* [ ] 🚀 Priority 1
+* [ ] 📑 Priority 2
+* [ ] 💡 Priority 3
 
-🗓️ Monthly Planner
-Month: {{Month Name}}
+📌 **Deadlines:**
 
-Top Priorities:
+* [ ] 🗓️ Submit project report — **{{Date}}**
 
- Priority 1
+📈 **Habit Tracker:**
 
- Priority 2
+* [ ] 🏃 Exercise
+* [ ] 📖 Read 30 minutes
+* [ ] 🧘 Meditate
+* [ ] 💧 Drink 2L water
 
- Priority 3
+---
 
-Key Deadlines:
+## 📆 **Weekly Planner** — *Week of {{Date Range}}*
 
- Project/Assignment Due — {{Date}}
+🔑 **Weekly Priorities**
 
-Habit Tracker:
+* [ ] 🎯 Big Task 1
+* [ ] 🎯 Big Task 2
+* [ ] 🎯 Big Task 3
 
- Daily Exercise
+📝 **Task Breakdown**
 
- Read 30 minutes
+| 📅 Day  | 🏆 Top 3 Tasks                | 🗒 Notes |
+| ------- | ----------------------------- | -------- |
+| **Mon** | \[ ] Task 1 <br> \[ ] Task 2  |          |
+| **Tue** | \[ ] Task 3 <br> \[ ] Task 4  |          |
+| **Wed** | \[ ] Task 5 <br> \[ ] Task 6  |          |
+| **Thu** | \[ ] Task 7 <br> \[ ] Task 8  |          |
+| **Fri** | \[ ] Task 9 <br> \[ ] Task 10 |          |
+| **Sat** | \[ ] Task 11                  |          |
+| **Sun** | \[ ] Review & Rest            |          |
 
- Meditate
+---
 
-📆 Weekly Planner
+## 📋 **Daily Planner** — *{{YYYY-MM-DD}}*
 
-Week of {{Date Range}}
+🌞 **Morning Routine**
 
-🔑 Weekly Priorities
+* [ ] ⏰ Wake up
+* [ ] 🏋️ Exercise / Stretch
+* [ ] 📝 Review goals
 
- Big Task 1
+🔥 **Top 3 MITs (Most Important Tasks)**
 
- Big Task 2
+1. [ ] 🚀 Task A
+2. [ ] 📑 Task B
+3. [ ] 💡 Task C
 
- Big Task 3
+🕒 **Time Blocking**
 
-📝 Task Breakdown
-Day	Top 3 Tasks	Notes
-Monday	[ ] Task 1	
-Tuesday	[ ] Task 2	
-Wednesday	[ ] Task 3	
-Thursday	[ ] Task 4	
-Friday	[ ] Task 5	
-Saturday	[ ] Task 6	
-Sunday	[ ] Rest / Review	
-📅 Daily Planner
+| 🕒 Time  | 🎯 Focus Area         | ✅ Status |
+| -------- | --------------------- | -------- |
+| 7–8 AM   | Morning Routine       | \[ ]     |
+| 8–10 AM  | Deep Work — Project X | \[ ]     |
+| 10–11 AM | Email / Admin         | \[ ]     |
+| 11–1 PM  | Meetings              | \[ ]     |
+| 1–2 PM   | Lunch                 | \[ ]     |
+| 2–5 PM   | Deep Work — Project Y | \[ ]     |
+| 5–7 PM   | Exercise / Errands    | \[ ]     |
+| 7–9 PM   | Personal Project      | \[ ]     |
+| 9–10 PM  | Journal & Plan        | \[ ]     |
 
-Date: {{YYYY-MM-DD}}
+🌙 **Evening Reflection**
 
-🌞 Morning Routine
+* ✅ Wins:
+* ⚠️ Challenges:
+* 💡 Improvements:
 
- Wake up at __
+---
 
- Exercise / Stretch
+## 🔎 **Review & Reflection**
 
- Review daily goals
+### 📌 Weekly Review
 
-✅ Top 3 MITs (Most Important Tasks)
+* ✅ Accomplishments:
+* ⚠️ Pending tasks:
+* 💡 Lessons learned:
+* 🎯 Adjustments:
 
- Task A
+### 📌 Monthly Review
 
- Task B
+* 📈 Goal progress:
+* 📊 Habit consistency:
+* 🚧 Obstacles:
+* 🔄 Strategy updates:
 
- Task C
-
-🕒 Time Blocking
-Time	Task / Focus	Status
-7:00–8:00 AM	Morning Routine	[ ]
-8:00–10:00 AM	Deep Work — Project X	[ ]
-10:00–11:00 AM	Email / Admin	[ ]
-11:00–1:00 PM	Meetings	[ ]
-1:00–2:00 PM	Lunch & Break	[ ]
-2:00–5:00 PM	Deep Work — Project Y	[ ]
-5:00–7:00 PM	Exercise / Errands	[ ]
-7:00–9:00 PM	Personal Learning / Side Project	[ ]
-9:00–10:00 PM	Plan tomorrow / Journal	[ ]
-🌙 Evening Reflection
-Wins of the Day:
-What didn’t go well:
-Improvements for tomorrow:
-📊 Review & Reflection
-Weekly Review
-
-✅ What I accomplished:
-
-⚠️ What I didn’t finish:
-
-💡 Lessons learned:
-
-🎯 Adjustments for next week:
-
-Monthly Review
-
-Progress toward goals:
-
-Habits consistency:
-
-Obstacles faced:
-
-Strategy changes:
+---
